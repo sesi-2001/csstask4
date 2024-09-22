@@ -1,0 +1,23 @@
+a{
+    text-decoration: none;
+    color: rgb(240, 235, 235);
+}
+li{
+    list-style-type: none;
+    display: inline-block;
+    border: 2px solid rgb(3, 3, 3);
+    padding: 20px;
+}
+nav{
+    background-color: rgb(14, 14, 14);
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+li:hover{
+    background-color: crimson;
+    text-shadow: 2px 2px 3px salmon;
+    border-radius: 10px;
+    cursor: pointer;
+}

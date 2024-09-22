@@ -1,0 +1,30 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.chess{
+    border: 2px solid balck;
+    width: 90%;
+    height: 90%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.chess div{
+    
+    font-size: 60px;
+      text-align: center;
+      text-shadow: 2px 1px white;
+}
+.a{
+    background-color: white;
+    width:12%;
+   height: 100px;
+    
+}
+.b{
+    background-color: black;
+    width: 12%;
+    height: 100px;
+  
+}
